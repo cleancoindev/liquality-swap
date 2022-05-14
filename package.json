@@ -8,7 +8,7 @@
     "@liquality/bitcoin-esplora-swap-find-provider": "^v1.1.1",
     "@liquality/bitcoin-fee-api-provider": "^v1.1.1",
     "@liquality/bitcoin-ledger-provider": "^v1.1.1",
-    "@liquality/bitcoin-networks": "^v1.1.1",
+    "@liquality/bitcoin-networks": "^1.13.12",
     "@liquality/bitcoin-node-wallet-provider": "^v1.1.1",
     "@liquality/bitcoin-rpc-fee-provider": "^v1.1.1",
     "@liquality/bitcoin-rpc-provider": "^v1.1.1",
